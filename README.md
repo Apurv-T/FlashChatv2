@@ -28,14 +28,14 @@ I was able to build a modern messaging app where users can sign up and log in to
 - How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
 
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-
 ## Tools Used:
 
 ### Programming Languages: Java, Dart, JSON
 ### SDK: Flutter
 ### IDE : VS Code, Android Studio
 ### Cloud Database: Firebase
+
+
+
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
